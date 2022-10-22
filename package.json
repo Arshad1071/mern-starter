@@ -1,6 +1,9 @@
 {
   "name": "we-shopy",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.17.1"
+  },
   "private": true,
   "main": "index.js",
   "scripts": {
